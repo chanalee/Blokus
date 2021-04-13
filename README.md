@@ -1,10 +1,7 @@
 # Blokus
 **Project Description:**
     
-The goal for Blokus is for players to place as many pieces on the board as possible. The player can win by outscoring the other players.
-For the first move, each player has to start at their assigned corner, and for future moves, the current piece has to be diagonally connected
-to their other pieces somehow. However, the pieces must not be adjacent to other pieces. For my project, I will follow the rules of the
-original game and also include three difficulty levels. In addition, I will also show the possible corners/moves that the player can put their piece on. 
+I created this game for my 15-112 Project (Fall 2019). The goal for Blokus is for players to place as many pieces on the board as possible. The player can win by outscoring the other players. For the first move, each player has to start at their assigned corner, and for future moves, the current piece has to be diagonally connected to their other pieces somehow. However, the pieces must not be adjacent to other pieces. For my project, I will follow the rules of the original game and also include three difficulty levels. In addition, I will also show the possible corners/moves that the player can put their piece on. 
 
 
 **Running the Project:**
